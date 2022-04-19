@@ -1,0 +1,23 @@
+.el-table{
+  margin: 0 auto;
+}
+#addDorm{
+  float: left;
+  margin-bottom: 10px;
+}
+
+.el-pagination {
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%); 
+}
+
+#trigger{
+  position: absolute;
+  z-index: 1;
+  padding-top: 50px;
+  width: 99.7%;
+  height: 94%;
+  left: 0px;
+  top: 0px;
+}
